@@ -1,0 +1,1 @@
+typedef IntCallback<T> = int? Function(int?);
